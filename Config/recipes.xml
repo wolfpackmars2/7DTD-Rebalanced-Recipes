@@ -1,0 +1,4 @@
+<configs>
+	<set xpath="/recipes/recipe[@name='drinkJarGrandpasAwesomeSauce']/ingredient[@name='foodHoney']/@count">1</set>
+	<set xpath="/recipes/recipe[contains(@name, 'Flaming')]/ingredient[@name='resourceAnimalFat']/@name">resourceOil</set>
+</configs>
